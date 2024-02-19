@@ -2,7 +2,7 @@
 
 export NEZHA_SERVER=${NEZHA_SERVER:-'nz.b1ly.com'}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}
-export NEZHA_KEY=${NEZHA_KEY:-'oshlwgqMai85jQ6dAh'}
+export NEZHA_KEY=${NEZHA_KEY:-'z0echULCXxq5xD3E1W'}
 export TLS=${TLS:-'0'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
